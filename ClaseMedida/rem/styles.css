@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+p {
+    font-size: 1.6rem;
+    /* 1 rem = 16px 
+    pero si colocamos en html 62.5% un 1rem es 10px e*/
+}
