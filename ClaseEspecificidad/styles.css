@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#page_title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.title {
+    font-size: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#margin_nave {
+    margin-top: 30px;
+    list-style-type: none;
+    padding-left: 40px;
+}
+
+#main_nave a {
+    display: inline;
+    color: blueviolet;
+}
