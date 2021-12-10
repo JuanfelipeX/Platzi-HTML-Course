@@ -1,0 +1,12 @@
+.box1 {
+    width: 100%;
+}
+
+.box2,
+.box3 {
+    width: 50%;
+}
+
+.box4 {
+    height: calc(60vh - 5rem);
+}
