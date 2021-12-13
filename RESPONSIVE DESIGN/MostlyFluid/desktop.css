@@ -1,12 +1,24 @@
-.box1,
-.box2 {
-    width: 50%;
+.c1,
+.c2 {
+    height: calc((100vh/3) - 4rem);
 }
 
-.box3 {
-    width: 100%;
+.c1 {
+    width: 39%;
 }
 
-.box4 {
+.c2 {
+    width: 58%;
+}
+
+.c3,
+.c4,
+.c5 {
+    width: calc((100%/3) - 2%);
+    height: calc((100vh/3) - 4rem);
+}
+
+.c6 {
     width: 100%;
+    height: calc((100vh/3) - 4rem);
 }

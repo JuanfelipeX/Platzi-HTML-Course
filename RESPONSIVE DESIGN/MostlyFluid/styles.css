@@ -10,32 +10,11 @@ html {
 
 .container {
     display: flex;
+    justify-content: space-between;
     flex-wrap: wrap;
-}
-
-.box1,
-.box2,
-.box3,
-.box4 {
-    width: 100%;
-    min-width: 100px;
-    height: 150px;
-}
-
-.box1 {
-    background-color: darkorange;
-}
-
-.box2 {
-    background-color: blue;
-}
-
-.box3 {
-    background-color: brown;
-}
-
-.box4 {
-    background-color: chartreuse;
+    max-width: 1300px;
+    padding: 3rem;
+    margin: 0 auto;
 }
 
 
